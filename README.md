@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @John-Westby
-- 👀 I’m interested in ... Intellectual property law and how it relates to Artificial Intelligence
-- 🌱 I’m currently learning ... about developing AI, neural netoworks, and law
-- 💞️ I’m looking to collaborate on ... any AI projects
-- 📫 How to reach me ... Email - westbyfam.j@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I run track
+- 👀 I’m interested in intellectual property law and how it relates to Artificial Intelligence
+- 🌱 I’m currently learning about developing AI, neural netoworks, and law
+- 💞️ I’m looking to collaborate on any AI projects
+- 📫 How to reach me Email - westbyfam.j@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I run track
